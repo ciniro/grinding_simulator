@@ -1,3 +1,2 @@
-# GRINDING WHEELS - SIMULATION AND OPTIMIZATION
-A simulator based on Artificial Neural Networks developed by me for optimization with NSGA-II of the process of rectification of 
-superleaves with high-performance grinding wheels. Source code in R language. Please, for use, read the licence.
+# GRINDING PROCESS OF SUPERALLOYS - SIMULATION AND OPTIMIZATION
+Archives for the article entitled "A simulator based on Artificial Neural Networks and NSGA-II for prediction and optimization of the grinding processos of superalloys with high performance grinding wheels"
